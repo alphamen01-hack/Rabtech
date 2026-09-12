@@ -83,7 +83,7 @@ The assessment was conducted in an authorized and controlled environment for edu
 
 # 👨‍💻 Author
 
-## Sangeetha
+## Santhosh
 
 **Cybersecurity Student | Ethical Hacking | Network Security**
 
